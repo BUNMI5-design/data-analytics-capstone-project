@@ -12,9 +12,9 @@ This capstone project demonstrates my data analytics skills through the analysis
 - Generate insights to support business decisions
 
 ## Key Insights
-- Identified performance trends across categories
-- Highlighted areas of improvement and growth
-- Presented findings in a clear and structured format
+- Sales performance varied significantly across categories
+- Certain segments consistently outperformed others
+- Data trends revealed opportunities for improvement and growth
 
 ## Conclusion
 This project showcases my ability to work with data from start to finish, including data cleaning, analysis, and interpretation of results.
