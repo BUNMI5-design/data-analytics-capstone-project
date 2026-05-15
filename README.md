@@ -4,13 +4,13 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346)
 ![Type](https://img.shields.io/badge/Type-Dashboard-blue)
-![HNG](https://img.shields.io/badge/HNG%2014-Data%20Analytics-orange)
+![Utiva](https://img.shields.io/badge/Utiva-Data%20Analytics-orange)
 
 ---
 
 ## 📌 Project Overview
 
-As part of the HNG 14 Data Analytics programme, I built a fully interactive revenue and profit analysis dashboard for **TNMT Retail** using Microsoft Excel. The dashboard was designed to help business stakeholders quickly understand sales performance, identify top-performing products, and make data-driven decisions.
+As part of the **Utiva Data Analytics programme**, I built a fully interactive revenue and profit analysis dashboard for **TNMT Retail** using Microsoft Excel. The dashboard was designed to help business stakeholders quickly understand sales performance, identify top-performing products, and make data-driven decisions.
 
 ---
 
@@ -93,9 +93,9 @@ Skills: SQL | PostgreSQL | Power BI | Excel | Data Cleaning | Data Visualisation
 | Project | Tools | Description |
 |---|---|---|
 | [🌍 Climate Twitter Sentiment Analysis](https://github.com/BUNMI5-design/climate-twitter-sentiment-analysis) | PostgreSQL + Power BI | Analysis of 15.7M climate tweets — HNG 14 Stage 4 — 3rd Place |
-| 🛒 TNMT Retail Dashboard | Excel | Revenue and profit dashboard — this project |
+| 🛒 TNMT Retail Dashboard | Excel | Revenue and profit dashboard — Utiva Capstone |
 
 ---
 
-*This project was completed as part of the HNG 14 Data Analytics Internship*
+*This project was completed as part of the Utiva Data Analytics programme*
 
